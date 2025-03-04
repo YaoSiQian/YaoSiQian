@@ -7,7 +7,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying as a Junior High School student. \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying as a Senior High School student. \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for coding and computer science.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem making & solving.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching Minecraft plugins, Web Front-end and AIGC.\
