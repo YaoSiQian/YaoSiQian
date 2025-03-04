@@ -7,7 +7,7 @@
 
 ### :space_invader: &nbsp;关于 我
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;目前是一名 16 岁的初中生。 \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;目前是一名 16 岁的高中生。 \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;热爱编程与计算机科学。\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;热衷于创造问题和解决问题。\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;目前正在研究 Minecraft 插件，网页前端以及 AIGC。\
