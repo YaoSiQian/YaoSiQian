@@ -23,7 +23,7 @@
 
 <hr/>
 
-<details>
+<!-- <details>
   <summary><b>:computer: &nbsp;主要掌握的技能</b></summary>
   <br/>
 
@@ -75,7 +75,7 @@
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
 
-</details>
+</details> -->
 
 <details>
   <summary><b>:gear: &nbsp;GitHub 统计数据</b></summary>

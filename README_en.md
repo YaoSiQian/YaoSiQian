@@ -24,7 +24,7 @@
 
 <hr/>
 
-<details>
+<!-- <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
@@ -76,7 +76,7 @@
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
 
-</details>
+</details> -->
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
